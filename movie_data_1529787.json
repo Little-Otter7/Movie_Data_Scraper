@@ -1,0 +1,851 @@
+{
+  "movie_title": "熊出没·重启未来",
+  "basic_info": {
+    "累计票房": "8.03亿",
+    "首日票房": "1.38亿",
+    "首周票房": "4.18亿",
+    "票房预测": "8.11亿",
+    "分账票房": "7.30亿",
+    "片方 (38.13%)": "2.78亿",
+    "影院 (52.27%)": "3.81亿",
+    "其他 (9.60%)": "7009.0万",
+    "物料总播放": "1717.9万",
+    "微博指数": "暂无",
+    "微信指数": "34.8%",
+    "百度指数": "暂无",
+    "电影名称": "熊出没·重启未来"
+  },
+  "rating_info": {
+    "rating": "9.3",
+    "rating_count": "12万观众评分",
+    "wish_count": "38.7万人想看",
+    "imdb_score": "6.9"
+  },
+  "box_office_series": [
+    {
+      "date": "2025-01-29",
+      "box_office_real": "12376.67",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-01-30",
+      "box_office_real": "7852.09",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-01-31",
+      "box_office_real": "6942.12",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-01",
+      "box_office_real": "5663.82",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-02",
+      "box_office_real": "4917.64",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-03",
+      "box_office_real": "4256.37",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-04",
+      "box_office_real": "3957.21",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-05",
+      "box_office_real": "2731.40",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-06",
+      "box_office_real": "2315.71",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-07",
+      "box_office_real": "1944.41",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-08",
+      "box_office_real": "1969.71",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-09",
+      "box_office_real": "2541.50",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-10",
+      "box_office_real": "1579.30",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-11",
+      "box_office_real": "1522.71",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-12",
+      "box_office_real": "1606.00",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-13",
+      "box_office_real": "817.32",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-14",
+      "box_office_real": "637.75",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-15",
+      "box_office_real": "1538.54",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-16",
+      "box_office_real": "1443.33",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-17",
+      "box_office_real": "168.89",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-18",
+      "box_office_real": "148.39",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-19",
+      "box_office_real": "138.60",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-20",
+      "box_office_real": "132.65",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-21",
+      "box_office_real": "212.85",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-22",
+      "box_office_real": "1046.87",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-23",
+      "box_office_real": "936.41",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-24",
+      "box_office_real": "66.84",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-25",
+      "box_office_real": "60.31",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-26",
+      "box_office_real": "56.39",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-27",
+      "box_office_real": "52.87",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-02-28",
+      "box_office_real": "114.87",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-01",
+      "box_office_real": "642.25",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-02",
+      "box_office_real": "529.53",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-03",
+      "box_office_real": "28.82",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-04",
+      "box_office_real": "24.89",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-05",
+      "box_office_real": "23.89",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-06",
+      "box_office_real": "18.51",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-07",
+      "box_office_real": "56.34",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-08",
+      "box_office_real": "261.75",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-09",
+      "box_office_real": "253.52",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-10",
+      "box_office_real": "7.84",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-11",
+      "box_office_real": "8.28",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-12",
+      "box_office_real": "7.76",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-13",
+      "box_office_real": "5.48",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-14",
+      "box_office_real": "23.83",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-15",
+      "box_office_real": "264.82",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-16",
+      "box_office_real": "256.05",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-17",
+      "box_office_real": "7.76",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-18",
+      "box_office_real": "6.51",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-19",
+      "box_office_real": "6.39",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-20",
+      "box_office_real": "5.86",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-21",
+      "box_office_real": "19.34",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-22",
+      "box_office_real": "174.74",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-23",
+      "box_office_real": "159.81",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-24",
+      "box_office_real": "5.08",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-25",
+      "box_office_real": "4.22",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-26",
+      "box_office_real": "4.28",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-27",
+      "box_office_real": "4.21",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-28",
+      "box_office_real": "17.98",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-29",
+      "box_office_real": "200.10",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-30",
+      "box_office_real": "191.37",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-03-31",
+      "box_office_real": "22.00",
+      "box_office_forecast": ""
+    },
+    {
+      "date": "2025-04-01",
+      "box_office_real": "6.74",
+      "box_office_forecast": "6.74"
+    },
+    {
+      "date": "2025-04-02",
+      "box_office_real": "",
+      "box_office_forecast": "0.20"
+    },
+    {
+      "date": "2025-04-03",
+      "box_office_real": "",
+      "box_office_forecast": "0.18"
+    },
+    {
+      "date": "2025-04-04",
+      "box_office_real": "",
+      "box_office_forecast": "0.19"
+    },
+    {
+      "date": "2025-04-05",
+      "box_office_real": "",
+      "box_office_forecast": "0.10"
+    },
+    {
+      "date": "2025-04-06",
+      "box_office_real": "",
+      "box_office_forecast": "0.02"
+    },
+    {
+      "date": "2025-04-07",
+      "box_office_real": "",
+      "box_office_forecast": "0"
+    },
+    {
+      "date": "2025-04-08",
+      "box_office_real": "",
+      "box_office_forecast": "0"
+    },
+    {
+      "date": "2025-04-09",
+      "box_office_real": "",
+      "box_office_forecast": "0"
+    },
+    {
+      "date": "2025-04-10",
+      "box_office_real": "",
+      "box_office_forecast": "0"
+    },
+    {
+      "date": "2025-04-11",
+      "box_office_real": "",
+      "box_office_forecast": "0"
+    },
+    {
+      "date": "2025-04-12",
+      "box_office_real": "",
+      "box_office_forecast": "0"
+    },
+    {
+      "date": "2025-04-13",
+      "box_office_real": "",
+      "box_office_forecast": "0"
+    }
+  ],
+  "schedule_series": [
+    {
+      "date": "2025-01-29",
+      "schedule_count": 43609
+    },
+    {
+      "date": "2025-01-30",
+      "schedule_count": 50627
+    },
+    {
+      "date": "2025-01-31",
+      "schedule_count": 47577
+    },
+    {
+      "date": "2025-02-01",
+      "schedule_count": 43253
+    },
+    {
+      "date": "2025-02-02",
+      "schedule_count": 39748
+    },
+    {
+      "date": "2025-02-03",
+      "schedule_count": 37599
+    },
+    {
+      "date": "2025-02-04",
+      "schedule_count": 36289
+    },
+    {
+      "date": "2025-02-05",
+      "schedule_count": 34599
+    },
+    {
+      "date": "2025-02-06",
+      "schedule_count": 34671
+    },
+    {
+      "date": "2025-02-07",
+      "schedule_count": 34905
+    },
+    {
+      "date": "2025-02-08",
+      "schedule_count": 34922
+    },
+    {
+      "date": "2025-02-09",
+      "schedule_count": 34696
+    },
+    {
+      "date": "2025-02-10",
+      "schedule_count": 33185
+    },
+    {
+      "date": "2025-02-11",
+      "schedule_count": 32947
+    },
+    {
+      "date": "2025-02-12",
+      "schedule_count": 32855
+    },
+    {
+      "date": "2025-02-13",
+      "schedule_count": 29446
+    },
+    {
+      "date": "2025-02-14",
+      "schedule_count": 16253
+    },
+    {
+      "date": "2025-02-15",
+      "schedule_count": 24244
+    },
+    {
+      "date": "2025-02-16",
+      "schedule_count": 26585
+    },
+    {
+      "date": "2025-02-17",
+      "schedule_count": 16087
+    },
+    {
+      "date": "2025-02-18",
+      "schedule_count": 14354
+    },
+    {
+      "date": "2025-02-19",
+      "schedule_count": 13835
+    },
+    {
+      "date": "2025-02-20",
+      "schedule_count": 13575
+    },
+    {
+      "date": "2025-02-21",
+      "schedule_count": 13359
+    },
+    {
+      "date": "2025-02-22",
+      "schedule_count": 23334
+    },
+    {
+      "date": "2025-02-23",
+      "schedule_count": 24977
+    },
+    {
+      "date": "2025-02-24",
+      "schedule_count": 11575
+    },
+    {
+      "date": "2025-02-25",
+      "schedule_count": 10866
+    },
+    {
+      "date": "2025-02-26",
+      "schedule_count": 10488
+    },
+    {
+      "date": "2025-02-27",
+      "schedule_count": 10493
+    },
+    {
+      "date": "2025-02-28",
+      "schedule_count": 11581
+    },
+    {
+      "date": "2025-03-01",
+      "schedule_count": 24382
+    },
+    {
+      "date": "2025-03-02",
+      "schedule_count": 24931
+    },
+    {
+      "date": "2025-03-03",
+      "schedule_count": 10006
+    },
+    {
+      "date": "2025-03-04",
+      "schedule_count": 9447
+    },
+    {
+      "date": "2025-03-05",
+      "schedule_count": 9154
+    },
+    {
+      "date": "2025-03-06",
+      "schedule_count": 8916
+    },
+    {
+      "date": "2025-03-07",
+      "schedule_count": 8888
+    },
+    {
+      "date": "2025-03-08",
+      "schedule_count": 9516
+    },
+    {
+      "date": "2025-03-09",
+      "schedule_count": 12332
+    },
+    {
+      "date": "2025-03-10",
+      "schedule_count": 4086
+    },
+    {
+      "date": "2025-03-11",
+      "schedule_count": 3805
+    },
+    {
+      "date": "2025-03-12",
+      "schedule_count": 3765
+    },
+    {
+      "date": "2025-03-13",
+      "schedule_count": 3765
+    },
+    {
+      "date": "2025-03-14",
+      "schedule_count": 4926
+    },
+    {
+      "date": "2025-03-15",
+      "schedule_count": 12546
+    },
+    {
+      "date": "2025-03-16",
+      "schedule_count": 14906
+    },
+    {
+      "date": "2025-03-17",
+      "schedule_count": 4489
+    },
+    {
+      "date": "2025-03-18",
+      "schedule_count": 4246
+    },
+    {
+      "date": "2025-03-19",
+      "schedule_count": 4110
+    },
+    {
+      "date": "2025-03-20",
+      "schedule_count": 4026
+    },
+    {
+      "date": "2025-03-21",
+      "schedule_count": 4615
+    },
+    {
+      "date": "2025-03-22",
+      "schedule_count": 11841
+    },
+    {
+      "date": "2025-03-23",
+      "schedule_count": 12950
+    },
+    {
+      "date": "2025-03-24",
+      "schedule_count": 3671
+    },
+    {
+      "date": "2025-03-25",
+      "schedule_count": 3437
+    },
+    {
+      "date": "2025-03-26",
+      "schedule_count": 3332
+    },
+    {
+      "date": "2025-03-27",
+      "schedule_count": 3308
+    },
+    {
+      "date": "2025-03-28",
+      "schedule_count": 4598
+    },
+    {
+      "date": "2025-03-29",
+      "schedule_count": 14056
+    },
+    {
+      "date": "2025-03-30",
+      "schedule_count": 14943
+    },
+    {
+      "date": "2025-03-31",
+      "schedule_count": 4766
+    },
+    {
+      "date": "2025-04-01",
+      "schedule_count": 3719
+    },
+    {
+      "date": "2025-04-02",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-03",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-04",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-05",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-06",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-07",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-08",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-09",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-10",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-11",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-12",
+      "schedule_count": ""
+    },
+    {
+      "date": "2025-04-13",
+      "schedule_count": ""
+    }
+  ],
+  "pre_release_wish_series": [
+    {
+      "date": "20241230",
+      "wish_count": 4792
+    },
+    {
+      "date": "20241231",
+      "wish_count": 7918
+    },
+    {
+      "date": "20250101",
+      "wish_count": 10904
+    },
+    {
+      "date": "20250102",
+      "wish_count": 4874
+    },
+    {
+      "date": "20250103",
+      "wish_count": 5171
+    },
+    {
+      "date": "20250104",
+      "wish_count": 6987
+    },
+    {
+      "date": "20250105",
+      "wish_count": 5844
+    },
+    {
+      "date": "20250106",
+      "wish_count": 4472
+    },
+    {
+      "date": "20250107",
+      "wish_count": 6283
+    },
+    {
+      "date": "20250108",
+      "wish_count": 6456
+    },
+    {
+      "date": "20250109",
+      "wish_count": 6418
+    },
+    {
+      "date": "20250110",
+      "wish_count": 7745
+    },
+    {
+      "date": "20250111",
+      "wish_count": 10853
+    },
+    {
+      "date": "20250112",
+      "wish_count": 11813
+    },
+    {
+      "date": "20250113",
+      "wish_count": 8879
+    },
+    {
+      "date": "20250114",
+      "wish_count": 8601
+    },
+    {
+      "date": "20250115",
+      "wish_count": 9828
+    },
+    {
+      "date": "20250116",
+      "wish_count": 12904
+    },
+    {
+      "date": "20250117",
+      "wish_count": 16480
+    },
+    {
+      "date": "20250118",
+      "wish_count": 19145
+    },
+    {
+      "date": "20250119",
+      "wish_count": 7937
+    },
+    {
+      "date": "20250120",
+      "wish_count": 3637
+    },
+    {
+      "date": "20250121",
+      "wish_count": 3294
+    },
+    {
+      "date": "20250122",
+      "wish_count": 3799
+    },
+    {
+      "date": "20250123",
+      "wish_count": 3873
+    },
+    {
+      "date": "20250124",
+      "wish_count": 3967
+    },
+    {
+      "date": "20250125",
+      "wish_count": 4278
+    },
+    {
+      "date": "20250126",
+      "wish_count": 4417
+    },
+    {
+      "date": "20250127",
+      "wish_count": 5428
+    },
+    {
+      "date": "20250128",
+      "wish_count": 8186
+    },
+    {
+      "date": "20250129",
+      "wish_count": 12941
+    }
+  ],
+  "persona_data": {
+    "男": "32.4%",
+    "女": "67.6%",
+    "四线城市": "46.8%",
+    "二线城市": "28.1%",
+    "三线城市": "17.9%",
+    "一线城市": "7.2%"
+  },
+  "cast_info": {
+    "导演": [],
+    "演员": [],
+    "编剧": []
+  },
+  "companies": {},
+  "technical_specs": {},
+  "marketing_events": [
+    {
+      "time": "2025-03-29 13:30",
+      "event": "熊出没重启未来票房破8亿",
+      "tag": "微博话题"
+    }
+  ]
+}
