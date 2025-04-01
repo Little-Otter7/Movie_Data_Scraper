@@ -104,7 +104,7 @@ def crawl_movie_data(url):
             if key_tag and val_tag:
                 persona_data[key_tag.get_text(strip=True)] = val_tag.get_text(strip=True)
 
-    # 8. 导演、演员、编剧
+    # 8. 导演、演员、编剧 (未实现，源码中没有这些数据）
     cast_info = {"导演": [], "演员": [], "编剧": []}
     cast_section = soup.select('div.navBar + div img')  # 图片卡片（头像）区域
     if cast_section:
@@ -119,7 +119,7 @@ def crawl_movie_data(url):
             else:
                 cast_info["演员"].append(alt)
 
-    # 9. 出品公司等（制作单位）
+    # 9. 出品公司等（制作单位）(未实现，源码中没有这些数据）
     companies = {}
     for div in soup.select("div.topboard-panel ~ div.section-group div.section-group section"):
         h2 = div.find('h2') or div.find('p')
@@ -127,7 +127,7 @@ def crawl_movie_data(url):
             title = h2.get_text(strip=True).replace(':', '')
             companies[title] = [img.get("alt", "") for img in div.select('img') if img.get("alt")]
 
-    # 10. 技术参数
+    # 10. 技术参数(未实现，源码中没有这些数据）
     technical_specs = {}
     spec_section = soup.find('section', class_='technical-section')
     if spec_section:
@@ -137,7 +137,7 @@ def crawl_movie_data(url):
             if key_tag and val_tag:
                 technical_specs[key_tag.get_text(strip=True)] = val_tag.get_text(strip=True)
 
-    # 11. 营销事件
+    # 11. 营销事件(未实现，源码中没有这些数据）
     marketing_events = []
     for event in soup.select('section.marketing-section div.trace-item'):
         time_tag = event.select_one('span.date-str')
@@ -185,7 +185,7 @@ if __name__ == "__main__":
 
     response = requests.get(rankings_url, headers=headers)
     if response.status_code != 200:
-        print(f"获取排行榜页面失败，状态码: {response.status_code}")
+        print(f"获取页面失败，状态码: {response.status_code}")
         exit()
 
     soup = BeautifulSoup(response.text, 'html.parser')
